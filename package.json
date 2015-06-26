@@ -21,6 +21,9 @@
   "bugs": {
     "url": "https://github.com/Factisio/factis-store-group/issues"
   },
+  "jest" : {
+    "collectCoverage":"true"
+  },
   "homepage": "https://github.com/Factisio/factis-store-group#readme",
   "devDependencies": {
     "jest-cli": "^0.4.13"
