@@ -1,0 +1,28 @@
+{
+  "name": "factis-store-group",
+  "version": "1.0.0",
+  "description": "Grouping datastore for factis",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Factisio/factis-store-group.git"
+  },
+  "keywords": [
+    "factis",
+    "factis-store",
+    "graph",
+    "database"
+  ],
+  "author": "Vincent Lecrubier <vincent.lecrubier@gmail.com> (http://www.vincentlecrubier.fr/)",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/Factisio/factis-store-group/issues"
+  },
+  "homepage": "https://github.com/Factisio/factis-store-group#readme",
+  "devDependencies": {
+    "jest-cli": "^0.4.13"
+  }
+}
