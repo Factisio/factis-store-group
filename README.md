@@ -1,3 +1,7 @@
+![](http://factis.io/logo-01.png "Factis database system")
+
+Be sure to check [http://factis.io](http://factis.io) for more information and documentation !
+
 # Factis store group
 
 This module is a datastore for [Factis](http://factis.io), the modular database system.
@@ -23,7 +27,3 @@ Create a new group by selecting some stores
 You can also add stores to the group afterwards
 
     myGroup.addStore(anotherStore);
-
-
-
-Check the documentation on [factis.io](http://factis.io)
