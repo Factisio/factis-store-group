@@ -68,7 +68,7 @@ Group.prototype.queryXPO = function(query,m){
   var res = [];
   var i =0;
   for (i=0;i<this.modules.length;i++){
-    console.log(this.modules[i].constructor);
+    // console.log(this.modules[i].constructor);
     var temp = this.modules[i].queryXPO(query,m);
     if(temp===null) return null;
     var j=0;
